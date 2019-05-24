@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: D:\电子系统设计\Altium PCB\Mic\Mic2.PcbDoc
+RuleKind=Clearance|RuleName=p-p|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=p-s|Scope=Board|Minimum=25.00
+RuleKind=Width|RuleName=pwr|Scope=Board|Minimum=30.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=sgn|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=s-s|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
